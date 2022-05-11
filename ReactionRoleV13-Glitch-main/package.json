@@ -1,0 +1,19 @@
+{
+  "name": "emojirol-altyapi-v13",
+  "version": "3.0.0",
+  "description": "Umut Bayraktar Discord.js v13 Uyumlu Emoji Rol Bot Altyapısı!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "UmutBayraktar",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.2",
+    "express": "^4.17.1",
+    "orio.db": "^3.0.5"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
